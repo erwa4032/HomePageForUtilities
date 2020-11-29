@@ -12,3 +12,22 @@ body{
   text-decoration: underline !important;
   cursor: default;
 }
+
+.carousel-indicators li {
+  height: 6px !important;
+}
+
+.carousel-indicators li:hover {
+  cursor: crosshair;
+}
+
+.carousel-control-prev-icon:hover {
+  cursor: crosshair;
+}
+.carousel-control-next-icon:hover {
+  cursor: crosshair;
+}
+
+.col-md-4:hover {
+  cursor: text;
+}
