@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+
+.nav-link {
+  font-size: 17px;
+  color: lightgrey !important;
+}
+
+.nav-link:hover {
+  color: white !important;
+  text-decoration: underline !important;
+  cursor: default;
+}
